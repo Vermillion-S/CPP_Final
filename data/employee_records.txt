@@ -1,0 +1,6 @@
+1 Sally_May 14 Cat15 0.85
+2 John_Doe 17.65 Cat12 0
+3 Christian_Bale 22.22 1234 0
+4 Cathy_Kate 5.68 1234 0
+5 Doug_dougman 12.53 1234 0
+6 Carter_Miller 19.99 1234 0
