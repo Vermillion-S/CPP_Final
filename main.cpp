@@ -1,3 +1,7 @@
+///////////////////////////////////////////////
+// This is My final Project for my C++ Class //
+// Creator: Maxwell Cunningham               //
+///////////////////////////////////////////////
 #include <iostream>
 #include <string>
 #include <vector>
